@@ -13,7 +13,10 @@
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.8.2",
-    "nuxt": "^2.14.12"
+    "nuxt": "^2.14.12",
+    "v-calendar": "^2.2.0",
+    "vue-js-modal": "^2.0.0-rc.6",
+    "vue-star-rating": "^1.7.0"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.1.2",
