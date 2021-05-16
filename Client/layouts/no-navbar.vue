@@ -1,6 +1,6 @@
 <template>
-	<div>
-		<NavbarComponent />
+	<div class="container">
+		<NuxtLink to="/">Go back</NuxtLink>
 		<Nuxt />
 	</div>
 </template>
@@ -30,5 +30,9 @@ html {
 *::after {
 	box-sizing: border-box;
 	margin: 0;
+}
+
+.container {
+	padding: 5rem 0;
 }
 </style>
