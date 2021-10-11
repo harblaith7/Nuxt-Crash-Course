@@ -7,3 +7,4 @@ Middleware let you define custom functions that can be run before rendering eith
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/routing#middleware).
 the middleware updated after sofware 
+hey middleware
